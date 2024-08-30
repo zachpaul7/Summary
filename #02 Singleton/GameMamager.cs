@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class GameMamager : Singleton<GameMamager>
 {
-    // Singleton<T>·Î »ó¼Ó¹Ş¾Æ¼­ »ç¿ë
+    
+    // Singleton<T>ë¡œ ìƒì†ë°›ì•„ì„œ ì‚¬ìš©
 
     private void Awake()
     {
