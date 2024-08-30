@@ -11,7 +11,7 @@ public class GetSetTest : MonoBehaviour
         Debug.Log(property.Num);
     }
 
-    // setÀ» ¼³Á¤ÇÏ°í »ç¿ëÇØ¾ßÇÔ
+    // setì„ ì„¤ì •í•˜ê³  ì‚¬ìš©í•´ì•¼í•¨
     /*void Setting()
     {
         property.Num = 10;
